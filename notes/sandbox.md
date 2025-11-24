@@ -1,0 +1,1 @@
+- in absence of air resistance all objects fall freely with the same acceleration
